@@ -1,0 +1,36 @@
+.controls {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	font-size: 1.5rem;
+}
+
+.measures {
+	padding: 1rem;
+}
+
+.measures_num {
+	padding: 5px;
+	margin-left: 1rem;
+	font-size: 1.25rem;
+}
+
+.btn {
+	margin: 5px;
+	padding: 0.5rem 2rem 0.125rem;
+	border-radius: 5px;
+	font-size: 2rem;
+	color: white;
+	background-color: #a3a3a3;
+}
+
+.play:hover {
+	color: green;
+	background-color: #d9d9d9;
+}
+
+.stop:hover {
+	color: red;
+	background-color: #d9d9d9;
+}

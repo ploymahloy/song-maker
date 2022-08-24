@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  margin-bottom: 2px;
+}
+
+.instrument {
+  margin-right: 5px;
+  width: 50px;
+  text-align: right;
+}
